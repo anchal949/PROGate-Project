@@ -1,0 +1,177 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Avenir Next";
+}
+
+.header-list li {
+  list-style: none;
+  float:left;
+ padding:13px 10px;
+ font-size:20px;
+}
+
+
+header{
+   color:#fff;
+  background:black;
+  font-size:36px;
+  height:50px;
+  position: fixed;
+  width: 100%;
+  z-index: 50;
+ }
+ .header-logo{
+   float:left;
+   padding:8px 20px;
+   font-family: sans-serif;
+ }
+
+
+.container img{
+height:100%;
+}
+.but3{
+    background-color: transparent;
+    font-size: 12px;
+    padding:10px 12px;
+
+  }
+  .d1{ height:280px;
+  background-color:white;
+
+ box-shadow: 2px 2px 8px 8px #888888;
+transform: translate(0px,50px);
+margin-left: 60px;
+margin-right: 60px;
+
+
+}
+.d2{   height:280px;
+  background-color:white;
+
+ box-shadow: 2px 2px 8px 8px #888888;
+transform: translate(0px,100px);
+margin-left: 60px;
+margin-right: 60px;
+}
+
+.im1{
+  transform: translate(949px,-243px);
+   clip-path: polygon(200px 0px, -210px 1000px, 600px 200px, 700px 0px);
+
+
+}
+.im2{transform: translate(0px,-235px);
+
+  clip-path: polygon(0 0, 0 750px, 350px 0px, 100px 0);
+
+}
+.im3{
+  transform: translate(949px,-245px);
+   clip-path: polygon(200px 0px, -210px 1000px, 600px 200px, 700px 0px);
+}
+.d3{   height:280px;
+  background-color:white;
+
+ box-shadow: 2px 2px 8px 8px #888888;
+transform: translate(0px,150px);
+margin-left: 60px;
+margin-right: 60px;
+}
+.f1{ background: #7beec7;
+ width: 600px;
+ height: 285px;
+ position: relative;
+ 
+ text-align: center;
+margin-top: 30%;
+font-family: 'azedolight';
+
+margin-left: 11%;
+}
+
+.f2{position: relative;
+  background: black;
+  margin-right:10%;
+  width: 600px;
+ height: 300px;
+float: right;
+margin-top:-19.2%;
+ text-align: center;
+ font-family: 'azedolight';
+
+}
+.f3{
+  position: absolute;
+  background: white;
+  margin-left: 10%;
+  width: 80%;
+ height: 80%;
+ top: 10%;
+ 
+}
+.form{
+  margin-top: 50px;
+margin-left:10px; 
+height: 30px;
+padding-left: 14px;
+
+}
+.submit{
+  margin-top: 60px;
+margin-left:10px;
+height: 30px;
+background: #7beec7;
+border-radius: 5px;
+}
+
+ .middle{
+      margin-top: 200px;
+      margin-left: 170px;
+        width: 40%;
+        font-family: 'azedolight';
+        margin-bottom: 200px;
+    }
+    .text1{font-family: 'azedolight';
+    font-size: 23px;
+
+    }
+    .text2{font-family: 'azedolight';
+    font-size: 20px;
+    }
+    .imgs2{
+        margin-left: 120%;
+        margin-top: -400px;
+        width: 400px;
+        height: 400px;
+
+    }
+.footer {
+  background-color: grey;
+  color: #fff;
+  height: 120px;
+  padding: 40px;
+  margin-top: 200px;
+}
+
+.footer-logo {
+  float:left;
+  font-size: 32px;
+}
+
+.footer-list {
+  
+  float:right;
+ 
+}
+li{
+   list-style: none;
+}
+
+.footer-list li {
+  padding-bottom: 20px;
+}
